@@ -1,118 +1,321 @@
 <div align="center">
 
-# 🚀 Hi, I'm Nishant Patil 👋
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=Nishant%20Patil&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=From%20Hackathons%20to%20Production%20-%20Turning%20Ideas%20into%20Impact&descSize=18&descAlignY=55"/>
 
-### Smart India Hackathon 2023 Winner | Java Developer | AI/ML Enthusiast
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Smart+India+Hackathon+Winner+%F0%9F%8F%86;Java+Developer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+%F0%9F%9A%80;Building+Intelligent+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
+</h3>
 
-**"From Hackathons to Production - Turning Ideas into Impact"**
+<p>
+  <img src="https://img.shields.io/badge/Master's_Student-Northeastern_University-1e3a8a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Boston,_MA-3b82f6?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-60a5fa?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
 
-🎓 Master's Student @ Northeastern University | 💻 Software & Full Stack Developer | 🤖 AI/ML Enthusiast
+<!-- Social Links with Hover Effect -->
+<p>
+  <a href="https://linkedin.com/in/nishant-patil-cs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e3a8a" />
+  </a>
+  <a href="https://github.com/nishantneu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1e3a8a" />
+  </a>
+  <a href="mailto:patil.nisha@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e3a8a" />
+  </a>
+  <a href="https://github.com/nishantneu">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e3a8a" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-patil-cs)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishantneu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patil.nisha@northeastern.edu)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishantneu&label=Profile%20Views&color=1e3a8a&style=for-the-badge)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=nishantneu&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🏆 Highlights
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Highlights & Achievements
+
+<div align="center">
 
 ```yaml
-🥇 Smart India Hackathon 2023 Winner – AI-Based Legal Documentation Assistant (Ministry of Law & Justice)
-🥇 Google Developer Students Club Bit n Build Winner (2x) – Park Assist & Restaurant HR System  
-💡 10+ AI/ML & Full-Stack Projects deployed live
-⚡ 80% efficiency boost – Automated file processing workflows (Lyra Networks)
-🎯 93.53% accuracy – AI-powered legal document processing (320+ documents)
-📈 71% operational improvement – Restaurant HR Management System
-& many MORE
+🎯 COMPETITIONS & AWARDS
+  ├─ 🥇 Smart India Hackathon 2023 Winner
+  │    └─ AI-Based Legal Documentation Assistant (Ministry of Law & Justice)
+  ├─ 🥇 Google Developer Students Club Bit n Build Winner (2x)
+  │    ├─ Park Assist - Smart Parking Management Platform
+  │    └─ Restaurant HR Management System (AI/ML Category)
+  └─ 🥈 Multiple Hackathon Finalist & Runner-up Positions
+
+💼 PROFESSIONAL IMPACT
+  ├─ ⚡ 80% Efficiency Boost - Automated file processing at Lyra Networks
+  ├─ 🎯 93.53% Accuracy - AI-powered legal document processing (320+ docs)
+  ├─ 📈 71% Operational Improvement - Restaurant HR Management System
+  └─ 🚀 60% Response Time Improvement - Database optimization & caching
+
+🔨 PROJECTS & DEPLOYMENT
+  ├─ 💡 10+ AI/ML & Full-Stack Projects deployed live
+  ├─ 👥 Led 6-member cross-functional development teams
+  ├─ 🎤 Presented solutions to government stakeholders
+  └─ 🏗️ Built scalable architectures serving 100+ active users
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 💻 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Expertise
+
+<div align="center">
+
+### 🔤 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,r,sql&theme=dark" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,spring,graphql,express&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,gcp&theme=dark" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,github,gitlab,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+### 🚀 Systems & Performance
+<p>
+  <img src="https://img.shields.io/badge/Multi--threading-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Optimization-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🎯 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+
+### 🚗 Park Assist - Smart Parking Management Platform
+<img src="https://img.shields.io/badge/🥇_Google_Developer_Students_Club_Winner-1e3a8a?style=for-the-badge" />
+
+**Comprehensive parking ecosystem reducing search time by 80%, targeting India's ₹6,000 crore market**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+```typescript
+✨ Key Features:
+  ├─ Real-time parking availability with WebSocket updates
+  ├─ Multi-threaded workers for scalable performance
+  ├─ Stripe payment integration & location-based search
+  └─ Role-based auth (customers, managers, valets, admins)
 ```
 
 ---
 
-## 💻 Tech Stack
+### 👨‍💼 Restaurant HR Management System
+<img src="https://img.shields.io/badge/🥇_GDSC_Bit_n_Build_AI/ML_Winner-1e3a8a?style=for-the-badge" />
 
-<div align="center">
+**HR dashboard managing 90+ employees with 71% operational efficiency improvement**
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+```python
+🧠 AI-Powered Features:
+  ├─ Intelligent shift planning & satisfaction tracking
+  ├─ Automated demand forecasting algorithms
+  ├─ Predictive analytics for staff scheduling
+  └─ Advanced data visualization with Gantt charts
+```
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+---
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-121212?style=flat&logo=chainlink&logoColor=white)
+### ⚖️ AI-Powered Legal Document Assistant
+<img src="https://img.shields.io/badge/🥇_Smart_India_Hackathon_2023_Winner-1e3a8a?style=for-the-badge" />
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+**Advanced legal AI assistant with 93.53% accuracy processing 320+ documents**
 
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+</p>
 
-### Systems & Performance
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Multi-threading](https://img.shields.io/badge/Multi--threading-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-326CE5?style=flat&logo=kubernetes&logoColor=white)
+```javascript
+🔐 Enterprise Features:
+  ├─ Responsible AI practices for sensitive legal docs
+  ├─ Scalable document processing pipeline
+  ├─ Data privacy & security compliance
+  └─ Presented to Ministry of Law & Justice
+```
 
 </div>
 
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📊 GitHub Stats
+## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantneu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantneu&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantneu&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantneu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantneu&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantneu&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&border_radius=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishantneu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=60a5fa&point=3b82f6&area=true&border_radius=10" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=nishantneu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
+## 💼 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Professional Experience
 
+<div align="center">
 
-<p align="center">
-  <i>⚡ "Building intelligent solutions that make a difference" ⚡</i>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Lyra Networks
+**Java Developer** | *Feb 2025 - Jun 2025*
+
+- ⚡ **80% efficiency boost** - Automated workflows
+- 🚀 **60% faster response** - Query optimization
+- 🛠️ Built with Spring Boot, React, Node.js, MySQL
+- 📝 Maintained technical documentation & Git version control
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> AgileGenX Fintech
+**Data Analyst** | *Jun 2023 - Jul 2023*
+
+- 📊 Processed large-scale banking datasets with SQL & Python
+- 💡 Analyzed financial patterns for product strategies
+- 💼 Enhanced Kondor trading platform proficiency
+- 🔍 Conducted user behavior analysis
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🎓 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Education
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Northeastern University
+**Master of Science in Information Systems**
+📍 Boston, MA | 🗓️ Sep 2025 - Dec 2027
+
+**Coursework:**
+- Application Engineering Development
+- Web Design & Development
+- Program Structures and Algorithms
+- Network Structures and Cloud Computing
+
+</td>
+<td width="50%">
+
+### University of Mumbai
+**Bachelor of Engineering**
+📍 Mumbai, India | 🗓️ Sep 2021 - May 2025
+
+**Coursework:**
+- Object Oriented Programming & Data Structures
+- Databases, Operating Systems, Computer Networks
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development & Cloud Computing
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Build Something Amazing!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Open+to+Internships+%26+Co-op+Opportunities;Software+Engineering+%7C+AI%2FML+%7C+Full+Stack;Let's+Turn+Ideas+into+Impact+Together!" alt="Typing SVG" />
+
+<p>
+  <a href="https://linkedin.com/in/nishant-patil-cs">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:patil.nisha@northeastern.edu">
+    <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+### ⚡ *"From Hackathons to Production - Turning Ideas into Impact"* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=footer" />
+
+</div>
