@@ -24,9 +24,7 @@
   <a href="mailto:patil.nisha@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e3a8a" />
   </a>
-  <a href="https://github.com/nishantneu">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e3a8a" />
-  </a>
+  
 </p>
 
 <!-- Profile Views Counter -->
@@ -41,31 +39,45 @@
 
 ## 🏆 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Highlights & Achievements
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-🎯 COMPETITIONS & AWARDS
-  ├─ 🥇 Smart India Hackathon 2023 Winner
-  │    └─ AI-Based Legal Documentation Assistant (Ministry of Law & Justice)
-  ├─ 🥇 Google Developer Students Club Bit n Build Winner (2x)
-  │    ├─ Park Assist - Smart Parking Management Platform
-  │    └─ Restaurant HR Management System (AI/ML Category)
-  └─ 🥈 Multiple Hackathon Finalist & Runner-up Positions
+### 🎯 Competitions & Awards
+- 🥇 **Smart India Hackathon 2023 Winner**
+  - AI-Based Legal Documentation Assistant
+  - Ministry of Law & Justice
+- 🥇 **Google Developer Students Club Winner (2x)**
+  - Park Assist - Smart Parking Platform
+  - Restaurant HR Management System
+- 🥈 **Multiple Hackathon Finalist Positions**
 
-💼 PROFESSIONAL IMPACT
-  ├─ ⚡ 80% Efficiency Boost - Automated file processing at Lyra Networks
-  ├─ 🎯 93.53% Accuracy - AI-powered legal document processing (320+ docs)
-  ├─ 📈 71% Operational Improvement - Restaurant HR Management System
-  └─ 🚀 60% Response Time Improvement - Database optimization & caching
+### 💼 Professional Impact
+- ⚡ **80% Efficiency Boost** - Lyra Networks
+- 🎯 **93.53% Accuracy** - Legal AI Assistant
+- 📈 **71% Operational Improvement** - HR System
+- 🚀 **60% Response Time** - Database Optimization
 
-🔨 PROJECTS & DEPLOYMENT
-  ├─ 💡 10+ AI/ML & Full-Stack Projects deployed live
-  ├─ 👥 Led 6-member cross-functional development teams
-  ├─ 🎤 Presented solutions to government stakeholders
-  └─ 🏗️ Built scalable architectures serving 100+ active users
-```
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🔨 Projects & Deployment
+- 💡 **10+ AI/ML & Full-Stack Projects** deployed live
+- 👥 **Led 6-member teams** in cross-functional projects
+- 🎤 **Presented to government stakeholders** for SIH
+- 🏗️ **Built scalable systems** serving 100+ users
+- 📊 **Processed 320+ documents** with AI models
+- 🚗 **Targeting ₹6,000 crore market** with Park Assist
+
+### 🎓 Leadership & Collaboration
+- 📝 **Maintained technical documentation** across projects
+- 🔄 **Version control expertise** with Git/GitLab
+- 🤝 **Cross-team collaboration** in agile environments
+- 💻 **Full development lifecycle** experience
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
