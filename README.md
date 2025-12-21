@@ -2,7 +2,7 @@
 
 # 🚀 Hi, I'm Nishant Patil 👋
 
-### SIH-23 Winner | GDSC Bit n Build Winner (2x) 
+### Smart India Hackathon 2023 Winner | Java Developer | AI/ML Enthusiast
 
 **"From Hackathons to Production - Turning Ideas into Impact"**
 
