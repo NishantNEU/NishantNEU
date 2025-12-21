@@ -8,7 +8,7 @@
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Master's_Student-Northeastern_University-1e3a8a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Master's_Student-Northeastern_University-CC0000?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Boston,_MA-3b82f6?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-60a5fa?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
